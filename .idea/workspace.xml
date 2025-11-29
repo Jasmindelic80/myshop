@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4454417-22d9-4537-95d0-b91413cbfbc3" name="Changes" comment="sss" />
+    <list default="true" id="a4454417-22d9-4537-95d0-b91413cbfbc3" name="Changes" comment="myshop">
+      <change afterPath="$PROJECT_DIR$/myshop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/cart/cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/payment/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/myshop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/myshop/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/myshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/myshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/myshop/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/templates/shop/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/templates/shop/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +35,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myshop" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jasmindelic80&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jasmindelic80/myshop.git&quot;,
+    &quot;accountId&quot;: &quot;845c105e-8c49-47ea-830b-c9e99804bf7b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -35,8 +70,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
   <component name="SharedIndexes">
@@ -63,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760693184823</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sss">
+      <option name="closed" value="true" />
+      <created>1760693440719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760693440719</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
