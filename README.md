@@ -88,13 +88,12 @@ http://127.0.0.1:8000/admin/
 📸 Screenshots
 Add screenshots to /screenshots folder and display them here:
 
-arduino
-Copy code
 home.png
-products.png
-product_detail.png
 cart.png
 admin.png
+pay.png
+pay2.png
+
 🎯 Portfolio Purpose
 This project demonstrates:
 
