@@ -4,26 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4454417-22d9-4537-95d0-b91413cbfbc3" name="Changes" comment="myshop">
-      <change afterPath="$PROJECT_DIR$/myshop/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/cart/cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/payment/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a4454417-22d9-4537-95d0-b91413cbfbc3" name="Changes" comment="myshop13">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/myshop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/myshop/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/asgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myshop/myshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myshop/myshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/myshop/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/shop/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/shop/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/migrations/0001_initial.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/myshop/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/shop/templates/shop/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/templates/shop/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/shop/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myshop/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myshop/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/views.py" afterDir="false" />
     </list>
@@ -41,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myshop" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -53,7 +40,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jasmindelic80/myshop.git&quot;,
-    &quot;accountId&quot;: &quot;845c105e-8c49-47ea-830b-c9e99804bf7b&quot;
+    &quot;accountId&quot;: &quot;a86d0ae4-6082-4c6b-b592-15486ea697b8&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -67,14 +54,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.manage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,11 +97,29 @@
       <option name="project" value="LOCAL" />
       <updated>1760693440719</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="myshop12">
+      <option name="closed" value="true" />
+      <created>1764452646862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764452646862</updated>
+    </task>
+    <task id="LOCAL-00004" summary="myshop13">
+      <option name="closed" value="true" />
+      <created>1764547467152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764547467152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sss" />
-    <option name="LAST_COMMIT_MESSAGE" value="sss" />
+    <MESSAGE value="myshop12" />
+    <MESSAGE value="myshop13" />
+    <option name="LAST_COMMIT_MESSAGE" value="myshop13" />
   </component>
 </project>
