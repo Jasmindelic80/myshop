@@ -62,6 +62,11 @@
     "git-widget-placeholder": "master"
   },
   "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ],
     "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
   }
 }]]></component>
@@ -113,13 +118,38 @@
       <option name="project" value="LOCAL" />
       <updated>1764547467152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="myshop14">
+      <option name="closed" value="true" />
+      <created>1775744043964</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775744043964</updated>
+    </task>
+    <task id="LOCAL-00006" summary="myshop14">
+      <option name="closed" value="true" />
+      <created>1775744067283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775744067283</updated>
+    </task>
+    <task id="LOCAL-00007" summary="myshop14">
+      <option name="closed" value="true" />
+      <created>1775744097926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775744097926</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sss" />
     <MESSAGE value="myshop12" />
     <MESSAGE value="myshop13" />
-    <option name="LAST_COMMIT_MESSAGE" value="myshop13" />
+    <MESSAGE value="myshop14" />
+    <option name="LAST_COMMIT_MESSAGE" value="myshop14" />
   </component>
 </project>
